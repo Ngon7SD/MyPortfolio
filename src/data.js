@@ -4,7 +4,7 @@ import RecipeTrackingProject from "./img/recipeTrackingProject.png";
 import ThinkfulBnbProject from "./img/thinkfulBNB.png";
 import DecoderProject from "./img/decoderProject.png";
 import GrubDashProject from "./img/grubDashProject.png";
-
+//
 
 export const products = [
   {
