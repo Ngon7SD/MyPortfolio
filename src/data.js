@@ -10,12 +10,12 @@ export const products = [
   {
     id: 1,
     img: WeLoveMovies,
-    link: "https://we-love-movies-front-end-flax.vercel.app/movies",
+    link: "https://github.com/Ngon7SD/WeLoveMoviesBackEnd",
   },
   {
     id: 2,
     img: GrubDashProject,
-    link: "https://grub-dash-front-end-nine.vercel.app/",
+    link: "https://github.com/Ngon7SD/GrubDashFrontEnd",
   },
   {
     id: 3,
