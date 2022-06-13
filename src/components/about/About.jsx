@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Award from "../../img/award.png";
+
 
 function About() {
   return (
